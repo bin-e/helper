@@ -7,6 +7,7 @@
 ## :computer: 사이트 등
 - [emoji.muan.co](https://emoji.muan.co)
     - github 이모지 찾을 때 여기로
+- [마크다운 사용법](https://bin-e.tistory.com/27)
 
 ## :link: 유틸리티
 - [draw.io](https://www.draw.io/)
