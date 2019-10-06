@@ -8,6 +8,6 @@
 - [emoji.muan.co](https://emoji.muan.co)
     - github 이모지 찾을 때 여기로
 
-## :toolbox: 유틸리티
+## :link: 유틸리티
 - [draw.io](https://www.draw.io/)
     - 순서도, 도표 등 그래프 제작 할 때 사용함
