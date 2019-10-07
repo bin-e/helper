@@ -1,4 +1,17 @@
 # :gear: OTHERS
+## :star2: BEST
+- [OKKY - All That Developer](https://okky.kr/)
+	> 개발자 커뮤니티 Okky
+- [VELOPERT.LOG](https://velopert.com/about)
+	> velog를 개발하신 개발자 "김민준"님 블로그
+- [기억보단 기록을](https://jojoldu.tistory.com/)
+	> "이동욱"님 블로그
+- [Outsider's Dev Story](https://blog.outsider.ne.kr)
+	> "변정훈"님 블로그
+	> - 기술 뉴스만 읽어봐도 큰 도움이 됨
+- [서비큐라 기술 블로그](https://subicura.com/)
+	> "김충섭"님 블로그
+
 ## :books: 읽을거리
 - [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속 - TOAST Meetup의 김은호님](https://meetup.toast.com/posts/106)
 - [깃허브(GitHub)로 취업하기 - 이수진님](https://sujinlee.me/professional-github/)
