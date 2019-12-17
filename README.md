@@ -8,10 +8,10 @@ This repository organizes the feeds that will help with "하는중". Also, intro
 - [ysm0622] 님의 __[한 주간 본 IT 글, 영상](https://velog.io/@chris/series/-%ED%95%9C-%EC%A3%BC%EA%B0%84-%EB%B3%B8-IT-%EA%B8%80-%EC%98%81%EC%83%81)__ in [velog](https://velog.io/)
 - [seungdols] 님의 __[그냥 저냥 위클리 뉴스](https://seungdols.tistory.com/category/%EC%8A%B9%EB%8F%8C%20%EC%93%B0%EB%8B%A4)__ in [Seungdols Company](https://seungdols.tistory.com/)
 
-[Outsider]: (https://github.com/outsideris)
-[ysm0622]: (https://github.com/ysm0622/)
-[sigmadream]: (https://github.com/sigmadream)
-[seungdols]: (https://github.com/seungdols)
+[Outsider]: https://github.com/outsideris
+[ysm0622]: https://github.com/ysm0622/
+[sigmadream]: https://github.com/sigmadream
+[seungdols]: https://github.com/seungdols
 
 ## :star2: Respected developers
 - [VELOPERT.LOG](https://velopert.com/about)
