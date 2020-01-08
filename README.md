@@ -18,7 +18,7 @@ This repository organizes the feeds that will help with "하는중". Also, intro
 - [김정환 블로그](http://jeonghwan-kim.github.io/) - [김정환(jeonghwan-kim)](https://github.com/jeonghwan-kim) 님 블로그
 - [Evan Moon](https://evan-moon.github.io/) - [문동욱(evan-moon)](https://github.com/evan-moon) 님 블로그
 
-### :labcoat: Team blog
+### :office: Team blog
 - [NAVER D2](https://d2.naver.com/home)
 - [TOAST Meetup!](https://meetup.toast.com/)
 - [우아한형제들 기술 블로그](http://woowabros.github.io/)
