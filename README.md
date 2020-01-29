@@ -1,7 +1,7 @@
 # :star2: HELPER
 > This repository organizes the feeds that will help with "Developer(Dev)". Also, introduces and organizes other helpful documents, sites, articles, posts ... and more.
 
-<!-- developer home link here -->
+<!-- Developer home link here -->
 [김민준(velopert)]: https://github.com/velopert
 [김정환(jeonghwan-kim)]: https://github.com/jeonghwan-kim
 [김충섭(subicura)]: https://github.com/subicura
@@ -14,6 +14,14 @@
 [문동욱(evan-moon)]: https://github.com/evan-moon
 [장기효(joshua1988)]: https://github.com/joshua1988
 [박영웅(Heropy)]: https://github.com/ParkYoungWoong
+[이수진(sujinleeme)]: https://github.com/sujinleeme
+
+<!-- Team blog home link here -->
+[TOAST Meetup]: https://meetup.toast.com/
+
+[44bits]: https://www.44bits.io/ko
+[TechIT]: https://techit.kr/
+[ITWorld]: http://www.itworld.co.kr/main/
 
 # :newspaper: Periodicals
 - [변정훈(Outsider)][변정훈(Outsider)] 님의 __[기술 뉴스(Newsletter)](https://blog.outsider.ne.kr/category/Newsletter)__
@@ -35,8 +43,9 @@
 - [HEROPY](https://heropy.blog/) - [박영웅(Heropy)][박영웅(Heropy)] 님 블로그
 
 ## Team blog
+- [Google Developers Blog](https://developers.googleblog.com/) // Google
 - [NAVER D2](https://d2.naver.com/home) // [네이버](https://www.jobplanet.co.kr/companies/42217/info/%EB%84%A4%EC%9D%B4%EB%B2%84)
-- [TOAST Meetup](https://meetup.toast.com/) // [엔에이치엔](https://www.jobplanet.co.kr/companies/88463/info/%EC%97%94%EC%97%90%EC%9D%B4%EC%B9%98%EC%97%94)
+- [TOAST Meetup][TOAST Meetup] // [엔에이치엔](https://www.jobplanet.co.kr/companies/88463/info/%EC%97%94%EC%97%90%EC%9D%B4%EC%B9%98%EC%97%94)
 - [tech.kakao.com](https://tech.kakao.com/) // [카카오](https://www.jobplanet.co.kr/companies/93880/info/%EC%B9%B4%EC%B9%B4%EC%98%A4)
 - [우아한형제들 기술 블로그](http://woowabros.github.io/) // [우아한형제들](https://www.jobplanet.co.kr/companies/61420/info/%EB%B0%B0%EB%8B%AC%EC%9D%98%EB%AF%BC%EC%A1%B1) (배달의민족)
 - [쿠팡 기술블로그 — Coupang Technology Blog – Medium](https://medium.com/coupang-tech) // [쿠팡](https://www.jobplanet.co.kr/companies/87444/landing/%EC%BF%A0%ED%8C%A1)
@@ -52,21 +61,21 @@
 
 ## Community, etc.
 - [어썸 데브블로그](https://awesome-devblog.netlify.com/)
-- [44BITS (프로그래머들의 수다 팟캐스트. 클라우드, 개발, 테크 뉴스, 전자 제품.)](https://www.44bits.io/ko)
+- [44bits][44bits] - 44BITS 기술 블로그: 클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스
+- [techit][techit] - 테크 비즈니스를 보는 다양한 통찰 '테크잇'
 - [velog](https://velog.io/)
 - [POP it(Pop your eXperience. Share it.)](https://www.popit.kr/)
 - [Reddit/programming](https://www.reddit.com/r/programming/)
 - [OKKY](https://okky.kr/)
+- [ITWorld][ITWorld] - 테크놀로지 리더를 위한 글로벌 IT 뉴스
 - [정보통신산업진흥원](https://www.nipa.kr/)
 
 # :computer: Development
-## Algorithm Practice & Competition
-- [Programmers (프로그래머스)](https://programmers.co.kr/learn)
-- [Baekjoon Online Judge (백준)](https://www.acmicpc.net/)
-- [HackerRank (해커랭크)](https://www.hackerrank.com/) (ENG)
-- [ALGOSPOT (알고스팟)](https://algospot.com/)
-- [JungOl (정올)](http://www.jungol.co.kr/)
-- [Codility (코딜리티)](https://app.codility.com/programmers/) (ENG)
+## Important platform(or service)
+- [Amazon Web Services](https://aws.amazon.com/ko/?nc2=h_lg)
+- [Google Analytics](https://www.google.com/analytics/web/?hl=ko&pli=1)
+- [Firebase](https://firebase.google.com/)
+- [Google Play Console](https://play.google.com/apps/publish/?hl=ko)
 
 ## Learn code (Course)
 - [인프런 - 배우고 나누고 성장하세요 | 온라인 강의 플랫폼](https://www.inflearn.com/)
@@ -75,13 +84,28 @@
 - [생활코딩](https://opentutorials.org/course/1)
 - [Learn to Code - for Free | Codecademy](https://www.codecademy.com/)
 
-# :link: Utility
-- [draw.io](https://www.draw.io/)
-- [emoji.muan.co](https://emoji.muan.co)
+## Algorithm Practice & Competition
+- [Programmers (프로그래머스)](https://programmers.co.kr/learn)
+- [Baekjoon Online Judge (백준)](https://www.acmicpc.net/)
+- [HackerRank (해커랭크)](https://www.hackerrank.com/) (ENG)
+- [ALGOSPOT (알고스팟)](https://algospot.com/)
+- [JungOl (정올)](http://www.jungol.co.kr/)
+- [Codility (코딜리티)](https://app.codility.com/programmers/) (ENG)
+
+## :link: Utility
+- [Trello](https://trello.com/) : 웹기반의 프로젝트 관리 소프트웨어
+- [AQueryTool - AQuery.Web](https://aquerytool.com/) : AQueryTool은 웹 기반 ERD 툴 + SQL 자동 생성 프로그램입니다.
+- [Curioustore | Curioustore](https://www.curioustore.com/#!/) : 변수명짓기/약어사전
+- [draw.io](https://www.draw.io/) : Create and share diagrams
+- [Emoji searcher](https://emoji.muan.co) : emoji
 
 # :scroll: Feed & Articles
 ## Useful
-- [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속 - TOAST Meetup의 김은호님](https://meetup.toast.com/posts/106)
-- [깃허브(GitHub)로 취업하기 - 이수진님](https://sujinlee.me/professional-github/)
+- 2017-03-16 [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속](https://meetup.toast.com/posts/106) - [TOAST Meetup][TOAST Meetup]
+- 2018-03-29 [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/) - [이수진(sujinleeme)][이수진(sujinleeme)] 님
+
+## Information
+- 2018-09-18 ["JDK란 무엇인가" 자바 개발 키트 소개와 설치하기](http://www.itworld.co.kr/news/110817) - [ITWorld][ITWorld]
 
 ## Fun
+- 2019-12-18 ["인터넷, 어디까지 해봤니?" 기내 인터넷은 어떻게 작동할까](https://techit.kr/view/?no=20191218073001) - [TechIT][TechIT]
