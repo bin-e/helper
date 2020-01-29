@@ -12,6 +12,8 @@
 [최승호(seungdols)]: https://github.com/seungdols
 [한상곤(sigmadream)]: http://www.sangkon.com/
 [문동욱(evan-moon)]: https://github.com/evan-moon
+[장기효(joshua1988)]: https://github.com/joshua1988
+[박영웅(Heropy)]: https://github.com/ParkYoungWoong
 
 # :newspaper: Periodicals
 - [변정훈(Outsider)][변정훈(Outsider)] 님의 __[기술 뉴스(Newsletter)](https://blog.outsider.ne.kr/category/Newsletter)__
@@ -29,6 +31,8 @@
 - [서비큐라 기술 블로그](https://subicura.com/) - [김충섭(subicura)][김충섭(subicura)] 님 블로그
 - [김정환 블로그](http://jeonghwan-kim.github.io/) - [김정환(jeonghwan-kim)][김정환(jeonghwan-kim)] 님 블로그
 - [Evan Moon](https://evan-moon.github.io/) - [문동욱(evan-moon)][문동욱(evan-moon)] 님 블로그
+- [Captain Pangyo](https://joshua1988.github.io/) - [장기효(joshua1988)][장기효(joshua1988)] 님 블로그
+- [HEROPY](https://heropy.blog/) - [박영웅(Heropy)][박영웅(Heropy)] 님 블로그
 
 ## Team blog
 - [NAVER D2](https://d2.naver.com/home) // [네이버](https://www.jobplanet.co.kr/companies/42217/info/%EB%84%A4%EC%9D%B4%EB%B2%84)
@@ -53,6 +57,7 @@
 - [POP it(Pop your eXperience. Share it.)](https://www.popit.kr/)
 - [Reddit/programming](https://www.reddit.com/r/programming/)
 - [OKKY](https://okky.kr/)
+- [정보통신산업진흥원](https://www.nipa.kr/)
 
 # :computer: Development
 ## Algorithm Practice & Competition
@@ -63,10 +68,20 @@
 - [JungOl (정올)](http://www.jungol.co.kr/)
 - [Codility (코딜리티)](https://app.codility.com/programmers/) (ENG)
 
+## Learn code (Course)
+- [인프런 - 배우고 나누고 성장하세요 | 온라인 강의 플랫폼](https://www.inflearn.com/)
+- [패스트캠퍼스 - 커리어 성장을 위한 최고의 실무교육 아카데미](https://www.fastcampus.co.kr/)
+- [오픈튜토리얼스](https://opentutorials.org/)
+- [생활코딩](https://opentutorials.org/course/1)
+- [Learn to Code - for Free | Codecademy](https://www.codecademy.com/)
+
 # :link: Utility
 - [draw.io](https://www.draw.io/)
 - [emoji.muan.co](https://emoji.muan.co)
 
 # :scroll: Feed & Articles
+## Useful
 - [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속 - TOAST Meetup의 김은호님](https://meetup.toast.com/posts/106)
 - [깃허브(GitHub)로 취업하기 - 이수진님](https://sujinlee.me/professional-github/)
+
+## Fun
