@@ -53,7 +53,7 @@
 - [피플펀드 기술 블로그](https://tech.peoplefund.co.kr/) // [피플펀드컴퍼니](https://www.jobplanet.co.kr/companies/334704/info/%ED%94%BC%ED%94%8C%ED%8E%80%EB%93%9C%EC%BB%B4%ED%8D%BC%EB%8B%88)
 - [쿠빌(COOVIL) 기술 노트](https://www.coovil.net/technotes/) // [쿠빌](https://www.jobplanet.co.kr/companies/7013/info/%EC%BF%A0%EB%B9%8C)
 - [Blog - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/) // [라인플러스](https://www.jobplanet.co.kr/companies/89255/info/%EB%9D%BC%EC%9D%B8%ED%94%8C%EB%9F%AC%EC%8A%A4)
-- [Logispot 멤버스토리 | 블로그 | 로지스팟(LOGISPOT)](https://blog.logi-spot.com/category/logispot-member-stories/) // [로지스팟](https://www.jobplanet.co.kr/companies/326356/info/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8C%9F)
+- [Logispot 멤버스토리](https://blog.logi-spot.com/category/logispot-member-stories/) // [로지스팟](https://www.jobplanet.co.kr/companies/326356/info/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8C%9F)
 - [매스프레소 팀블로그 – Medium](https://medium.com/qandastudy) // [매스프레소](https://www.jobplanet.co.kr/companies/317622/info/%EB%A7%A4%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C)
 - [ZIGZAG 기술 블로그](https://devblog.croquis.com/ko/) // [크로키닷컴](https://www.jobplanet.co.kr/companies/6881/info/%ED%81%AC%EB%A1%9C%ED%82%A4%EB%8B%B7%EC%BB%B4) (지그재그)
 - [Spoqa 기술 블로그](https://spoqa.github.io/) // [스포카](https://www.jobplanet.co.kr/companies/70599/info/%EC%8A%A4%ED%8F%AC%EC%B9%B4)
@@ -78,11 +78,11 @@
 - [Google Play Console](https://play.google.com/apps/publish/?hl=ko)
 
 ## Learn code (Course)
-- [인프런 - 배우고 나누고 성장하세요 | 온라인 강의 플랫폼](https://www.inflearn.com/)
+- [인프런 - 배우고 나누고 성장하세요](https://www.inflearn.com/)
 - [패스트캠퍼스 - 커리어 성장을 위한 최고의 실무교육 아카데미](https://www.fastcampus.co.kr/)
 - [오픈튜토리얼스](https://opentutorials.org/)
 - [생활코딩](https://opentutorials.org/course/1)
-- [Learn to Code - for Free | Codecademy](https://www.codecademy.com/)
+- [Codecademy](https://www.codecademy.com/)
 
 ## Algorithm Practice & Competition
 - [Programmers (프로그래머스)](https://programmers.co.kr/learn)
@@ -95,7 +95,7 @@
 ## Utility
 - [Trello](https://trello.com/) : 웹기반의 프로젝트 관리 소프트웨어
 - [AQueryTool - AQuery.Web](https://aquerytool.com/) : AQueryTool은 웹 기반 ERD 툴 + SQL 자동 생성 프로그램입니다.
-- [Curioustore | Curioustore](https://www.curioustore.com/#!/) : 변수명짓기/약어사전
+- [Curioustore](https://www.curioustore.com/#!/) : 변수명짓기/약어사전
 - [draw.io](https://www.draw.io/) : Create and share diagrams
 - [Emoji searcher](https://emoji.muan.co) : emoji
 
