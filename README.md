@@ -1,4 +1,4 @@
-# :star2: HELPER
+# HELPER
 > This repository organizes the feeds that will help with "Developer(Dev)". Also, introduces and organizes other helpful documents, sites, articles, posts ... and more.
 
 <!-- Developer home link here -->
@@ -23,7 +23,7 @@
 [TechIT]: https://techit.kr/
 [ITWorld]: http://www.itworld.co.kr/main/
 
-# :newspaper: Periodicals
+# Periodicals
 - [변정훈(Outsider)][변정훈(Outsider)] 님의 __[기술 뉴스(Newsletter)](https://blog.outsider.ne.kr/category/Newsletter)__
 - [한상곤(sigmadream)][한상곤(sigmadream)] 님의 __[주간 뉴스](https://www.sangkon.com/tag/weekly/)__
 - [한상곤(sigmadream)][한상곤(sigmadream)] 님의 __[월간 뉴스](https://www.sangkon.com/tag/monthly/)__
@@ -31,7 +31,7 @@
 - [최승호(seungdols)][최승호(seungdols)] 님의 __[그냥 저냥 위클리 뉴스](https://seungdols.tistory.com/category/%EC%8A%B9%EB%8F%8C%20%EC%93%B0%EB%8B%A4)__
 - [김태균(gaerae)][김태균(gaerae)] 님의 __[월간 개발자스럽다](https://blog.gaerae.com/search/label/newsletter)__
 
-# :globe_with_meridians: Blog & Community
+# Blog & Community
 ## Personal blog
 - [VELOPERT.LOG](https://velopert.com/about) - [김민준(velopert)][김민준(velopert)] 님 블로그
 - [기억보단 기록을](https://jojoldu.tistory.com/) - [이동욱(jojoldu)][이동욱(jojoldu)] 님 블로그
@@ -70,7 +70,7 @@
 - [ITWorld][ITWorld] - 테크놀로지 리더를 위한 글로벌 IT 뉴스
 - [정보통신산업진흥원](https://www.nipa.kr/)
 
-# :computer: Development
+# Development
 ## Important platform(or service)
 - [Amazon Web Services](https://aws.amazon.com/ko/?nc2=h_lg)
 - [Google Analytics](https://www.google.com/analytics/web/?hl=ko&pli=1)
@@ -92,14 +92,14 @@
 - [JungOl (정올)](http://www.jungol.co.kr/)
 - [Codility (코딜리티)](https://app.codility.com/programmers/) (ENG)
 
-## :link: Utility
+## Utility
 - [Trello](https://trello.com/) : 웹기반의 프로젝트 관리 소프트웨어
 - [AQueryTool - AQuery.Web](https://aquerytool.com/) : AQueryTool은 웹 기반 ERD 툴 + SQL 자동 생성 프로그램입니다.
 - [Curioustore | Curioustore](https://www.curioustore.com/#!/) : 변수명짓기/약어사전
 - [draw.io](https://www.draw.io/) : Create and share diagrams
 - [Emoji searcher](https://emoji.muan.co) : emoji
 
-# :scroll: Feed & Articles
+# Feed & Articles
 ## Useful
 - 2017-03-16 [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속](https://meetup.toast.com/posts/106) - [TOAST Meetup][TOAST Meetup]
 - 2018-03-29 [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/) - [이수진(sujinleeme)][이수진(sujinleeme)] 님
