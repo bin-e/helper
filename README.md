@@ -60,7 +60,7 @@
 - [OP.GG 블로그](http://log.op.gg/) // [오피지지](https://www.jobplanet.co.kr/companies/321744/info/%EC%98%A4%ED%94%BC%EC%A7%80%EC%A7%80)
 
 ## Community, etc.
-- [어썸 데브블로그](https://awesome-devblog.netlify.com/)
+- [어썸 데브블로그](https://awesome-devblog.now.sh/)
 - [44bits][44bits] - 44BITS 기술 블로그: 클라우드 컴퓨팅, 프로그래밍, 컨테이너, 리눅스
 - [techit][techit] - 테크 비즈니스를 보는 다양한 통찰 '테크잇'
 - [velog](https://velog.io/)
