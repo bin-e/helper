@@ -15,6 +15,10 @@
 [장기효(joshua1988)]: https://github.com/joshua1988
 [박영웅(Heropy)]: https://github.com/ParkYoungWoong
 [이수진(sujinleeme)]: https://github.com/sujinleeme
+[권태관(taetaetae)]: https://github.com/taetaetae
+[진유림(milooy)]: https://github.com/milooy
+[권희정(gmlwjd9405)]: https://github.com/gmlwjd9405
+[변성윤(zzsza)]: https://github.com/zzsza
 
 <!-- Team blog home link here -->
 [TOAST Meetup]: https://meetup.toast.com/
@@ -22,8 +26,9 @@
 [44bits]: https://www.44bits.io/ko
 [TechIT]: https://techit.kr/
 [ITWorld]: http://www.itworld.co.kr/main/
+[OKKY]: https://okky.kr/
 
-# Periodicals
+# \# Periodicals
 - [변정훈(Outsider)][변정훈(Outsider)] 님의 __[기술 뉴스(Newsletter)](https://blog.outsider.ne.kr/category/Newsletter)__
 - [한상곤(sigmadream)][한상곤(sigmadream)] 님의 __[주간 뉴스](https://www.sangkon.com/tag/weekly/)__
 - [한상곤(sigmadream)][한상곤(sigmadream)] 님의 __[월간 뉴스](https://www.sangkon.com/tag/monthly/)__
@@ -31,7 +36,7 @@
 - [최승호(seungdols)][최승호(seungdols)] 님의 __[그냥 저냥 위클리 뉴스](https://seungdols.tistory.com/category/%EC%8A%B9%EB%8F%8C%20%EC%93%B0%EB%8B%A4)__
 - [김태균(gaerae)][김태균(gaerae)] 님의 __[월간 개발자스럽다](https://blog.gaerae.com/search/label/newsletter)__
 
-# Blog & Community
+# \# Blog & Community
 ## Personal blog
 - [VELOPERT.LOG](https://velopert.com/about) - [김민준(velopert)][김민준(velopert)] 님 블로그
 - [기억보단 기록을](https://jojoldu.tistory.com/) - [이동욱(jojoldu)][이동욱(jojoldu)] 님 블로그
@@ -41,6 +46,10 @@
 - [Evan Moon](https://evan-moon.github.io/) - [문동욱(evan-moon)][문동욱(evan-moon)] 님 블로그
 - [Captain Pangyo](https://joshua1988.github.io/) - [장기효(joshua1988)][장기효(joshua1988)] 님 블로그
 - [HEROPY](https://heropy.blog/) - [박영웅(Heropy)][박영웅(Heropy)] 님 블로그
+- [꿈꾸는 태태태의 공간](https://taetaetae.github.io/) - [권태관(taetaetae)][권태관(taetaetae)] 님 블로그
+- [Yurim Jin, Programmer&Designer](https://milooy.wordpress.com/) - [진유림(milooy)][진유림(milooy)] 님 블로그
+- [Heee's Development Blog](https://gmlwjd9405.github.io/) - [권희정(gmlwjd9405)][권희정(gmlwjd9405)] 님 블로그
+- [어쩐지 오늘은 · Machine Learning Engineer](https://zzsza.github.io/) - [변성윤(zzsza)][변성윤(zzsza)] 님 블로그
 
 ## Team blog
 - [Google Developers Blog](https://developers.googleblog.com/) // Google
@@ -48,13 +57,13 @@
 - [TOAST Meetup][TOAST Meetup] // [엔에이치엔](https://www.jobplanet.co.kr/companies/88463/info/%EC%97%94%EC%97%90%EC%9D%B4%EC%B9%98%EC%97%94)
 - [tech.kakao.com](https://tech.kakao.com/) // [카카오](https://www.jobplanet.co.kr/companies/93880/info/%EC%B9%B4%EC%B9%B4%EC%98%A4)
 - [우아한형제들 기술 블로그](http://woowabros.github.io/) // [우아한형제들](https://www.jobplanet.co.kr/companies/61420/info/%EB%B0%B0%EB%8B%AC%EC%9D%98%EB%AF%BC%EC%A1%B1) (배달의민족)
-- [쿠팡 기술블로그 — Coupang Technology Blog – Medium](https://medium.com/coupang-tech) // [쿠팡](https://www.jobplanet.co.kr/companies/87444/landing/%EC%BF%A0%ED%8C%A1)
-- [Banksalad Tech – Medium](https://medium.com/banksalad) // [레이니스트](https://www.jobplanet.co.kr/companies/276354/info/%EB%A0%88%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%8A%B8) (뱅크샐러드)
+- [쿠팡 기술블로그](https://medium.com/coupang-tech) // [쿠팡](https://www.jobplanet.co.kr/companies/87444/landing/%EC%BF%A0%ED%8C%A1)
+- [Banksalad Tech](https://medium.com/banksalad) // [레이니스트](https://www.jobplanet.co.kr/companies/276354/info/%EB%A0%88%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%8A%B8) (뱅크샐러드)
 - [피플펀드 기술 블로그](https://tech.peoplefund.co.kr/) // [피플펀드컴퍼니](https://www.jobplanet.co.kr/companies/334704/info/%ED%94%BC%ED%94%8C%ED%8E%80%EB%93%9C%EC%BB%B4%ED%8D%BC%EB%8B%88)
 - [쿠빌(COOVIL) 기술 노트](https://www.coovil.net/technotes/) // [쿠빌](https://www.jobplanet.co.kr/companies/7013/info/%EC%BF%A0%EB%B9%8C)
 - [Blog - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/) // [라인플러스](https://www.jobplanet.co.kr/companies/89255/info/%EB%9D%BC%EC%9D%B8%ED%94%8C%EB%9F%AC%EC%8A%A4)
 - [Logispot 멤버스토리](https://blog.logi-spot.com/category/logispot-member-stories/) // [로지스팟](https://www.jobplanet.co.kr/companies/326356/info/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8C%9F)
-- [매스프레소 팀블로그 – Medium](https://medium.com/qandastudy) // [매스프레소](https://www.jobplanet.co.kr/companies/317622/info/%EB%A7%A4%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C)
+- [매스프레소 팀블로그](https://medium.com/qandastudy) // [매스프레소](https://www.jobplanet.co.kr/companies/317622/info/%EB%A7%A4%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C)
 - [ZIGZAG 기술 블로그](https://devblog.croquis.com/ko/) // [크로키닷컴](https://www.jobplanet.co.kr/companies/6881/info/%ED%81%AC%EB%A1%9C%ED%82%A4%EB%8B%B7%EC%BB%B4) (지그재그)
 - [Spoqa 기술 블로그](https://spoqa.github.io/) // [스포카](https://www.jobplanet.co.kr/companies/70599/info/%EC%8A%A4%ED%8F%AC%EC%B9%B4)
 - [OP.GG 블로그](http://log.op.gg/) // [오피지지](https://www.jobplanet.co.kr/companies/321744/info/%EC%98%A4%ED%94%BC%EC%A7%80%EC%A7%80)
@@ -66,13 +75,23 @@
 - [velog](https://velog.io/)
 - [POP it(Pop your eXperience. Share it.)](https://www.popit.kr/)
 - [Reddit/programming](https://www.reddit.com/r/programming/)
-- [OKKY](https://okky.kr/)
+- [OKKY][OKKY]
 - [ITWorld][ITWorld] - 테크놀로지 리더를 위한 글로벌 IT 뉴스
 - [정보통신산업진흥원](https://www.nipa.kr/)
 
-# Development
-## Important platform(or service)
+# \# Development (platform or service ... etc.)
+## Cloud
 - [Amazon Web Services](https://aws.amazon.com/ko/?nc2=h_lg)
+- [Microsoft Azure](https://azure.microsoft.com/ko-kr/)
+- [Google Cloud Platform](https://cloud.google.com/)
+
+## To remember
+- [github](https://github.com/)
+- [Figma](https://www.figma.com/)
+- [Sketch](https://www.sketch.com/)
+- [netlify](https://www.netlify.com/)
+- [heroku](https://www.heroku.com/)
+- [cloudflare](https://www.cloudflare.com/)
 - [Google Analytics](https://www.google.com/analytics/web/?hl=ko&pli=1)
 - [Firebase](https://firebase.google.com/)
 - [Google Play Console](https://play.google.com/apps/publish/?hl=ko)
@@ -93,13 +112,16 @@
 - [Codility (코딜리티)](https://app.codility.com/programmers/) (ENG)
 
 ## Utility
-- [Trello](https://trello.com/) : 웹기반의 프로젝트 관리 소프트웨어
-- [AQueryTool - AQuery.Web](https://aquerytool.com/) : AQueryTool은 웹 기반 ERD 툴 + SQL 자동 생성 프로그램입니다.
+- [AQueryTool](https://aquerytool.com/) : 웹 기반 ERD 툴 + SQL 자동 생성 프로그램
 - [Curioustore](https://www.curioustore.com/#!/) : 변수명짓기/약어사전
 - [draw.io](https://www.draw.io/) : Create and share diagrams
 - [Emoji searcher](https://emoji.muan.co) : emoji
 
-# Feed & Articles
+## Note (Memo)
+- [Trello](https://trello.com/) : 웹기반의 프로젝트 관리 소프트웨어
+- [Notion](http://notion.so/)
+
+# \# Feed & Articles
 ## Useful
 - 2017-03-16 [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속](https://meetup.toast.com/posts/106) - [TOAST Meetup][TOAST Meetup]
 - 2018-03-29 [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/) - [이수진(sujinleeme)][이수진(sujinleeme)] 님
