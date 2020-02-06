@@ -19,6 +19,7 @@
 [진유림(milooy)]: https://github.com/milooy
 [권희정(gmlwjd9405)]: https://github.com/gmlwjd9405
 [변성윤(zzsza)]: https://github.com/zzsza
+[이종학(devhaks)]: https://github.com/devhaks/
 
 <!-- Team blog home link here -->
 [TOAST Meetup]: https://meetup.toast.com/
@@ -50,6 +51,7 @@
 - [Yurim Jin, Programmer&Designer](https://milooy.wordpress.com/) - [진유림(milooy)][진유림(milooy)] 님 블로그
 - [Heee's Development Blog](https://gmlwjd9405.github.io/) - [권희정(gmlwjd9405)][권희정(gmlwjd9405)] 님 블로그
 - [어쩐지 오늘은 · Machine Learning Engineer](https://zzsza.github.io/) - [변성윤(zzsza)][변성윤(zzsza)] 님 블로그
+- [Devhaks 개발 저장소](https://devhaks.github.io/) - [이종학(devhaks)][이종학(devhaks)] 님 블로그
 
 ## Team blog
 - [Google Developers Blog](https://developers.googleblog.com/) // Google
