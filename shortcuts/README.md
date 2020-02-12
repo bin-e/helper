@@ -7,4 +7,4 @@
 > Probably contains phpstorm, webstorm, and more ...
 
 ## OS
-- Windows 10
+- [Windows 10](./windows_10.md)

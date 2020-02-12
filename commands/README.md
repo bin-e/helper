@@ -2,5 +2,6 @@
 > 자주 사용하는 명령어들
 
 # LIST
-- Git
+- [Git](./Git.md)
+- [PostgreSQL](./PostgreSQL.md)
 - Linux
