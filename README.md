@@ -33,8 +33,8 @@
 
 # \# Order-holic
 - [Weekly helpful feeds](./news/)
-- [Frequently Used Commands](./Commands/)
-- [Useful shortcuts to know](./Shortcuts/)
+- [Frequently Used Commands](./commands/)
+- [Useful shortcuts to know](./shortcuts/)
 
 # \# Periodicals
 - [변정훈(Outsider)][변정훈(Outsider)] 님의 __[기술 뉴스(Newsletter)](https://blog.outsider.ne.kr/category/Newsletter)__
