@@ -3,7 +3,7 @@
 
 # LIST
 ## IDE
-- IntelliJ (Jetbrains) 
+- [IntelliJ (Jetbrains)](./intellij.md)
 > Probably contains phpstorm, webstorm, and more ...
 
 ## OS
