@@ -161,7 +161,7 @@
 
 ## Information
 - 2018-09-18 ["JDK란 무엇인가" 자바 개발 키트 소개와 설치하기](http://www.itworld.co.kr/news/110817)
-- 2018-04-16 [\[번역\] 개발자 직군 파헤치기 1 | 프론트(Front), 백(Back), 풀스택(Full-Stack) 개발자](https://medium.com/code-states/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A7%81%EA%B5%B0-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-1-%ED%94%84%EB%A1%A0%ED%8A%B8-front-%EB%B0%B1-back-%ED%92%80%EC%8A%A4%ED%83%9D-full-stack-%EA%B0%9C%EB%B0%9C%EC%9E%90-f6c2f53e5b3b)
+- 2018-04-16 [\[번역\] 개발자 직군 파헤치기 1 프론트(Front), 백(Back), 풀스택(Full-Stack) 개발자](https://medium.com/code-states/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%A7%81%EA%B5%B0-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-1-%ED%94%84%EB%A1%A0%ED%8A%B8-front-%EB%B0%B1-back-%ED%92%80%EC%8A%A4%ED%83%9D-full-stack-%EA%B0%9C%EB%B0%9C%EC%9E%90-f6c2f53e5b3b)
 
 ## Fun
 - 2019-12-18 ["인터넷, 어디까지 해봤니?" 기내 인터넷은 어떻게 작동할까](https://techit.kr/view/?no=20191218073001)
