@@ -138,6 +138,23 @@
 - [JungOl (정올)](http://www.jungol.co.kr/)
 - [Codility (코딜리티)](https://app.codility.com/programmers/) (ENG)
 
+## Hire(recruit?)
+- [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
+- [프로그래머스 채용](https://programmers.co.kr/job)
+- [잡플래닛](https://www.jobplanet.co.kr/)
+- [원티드](https://www.wanted.co.kr/)
+- [로켓펀치](https://www.rocketpunch.com/)
+- [(비추)사람인](https://www.saramin.co.kr/)
+- [(비추)잡코리아](https://www.jobkorea.co.kr/)
+- [인크루트](https://www.incruit.com/)
+---
+- [카카오 영입](https://careers.kakao.com/)
+- [네이버 채용 페이지](https://recruit.navercorp.com/naver/recruitMain)
+- [LINE Plus Corporation | 채용공고](https://recruit.linepluscorp.com/)
+- [토스 채용](https://toss.im/career)
+- [우아한형제들](https://www.woowahan.com/)
+---
+
 ## Utility
 - [AQueryTool](https://aquerytool.com/) : 웹 기반 ERD 툴 + SQL 자동 생성 프로그램
 - [Curioustore](https://www.curioustore.com/#!/) : 변수명짓기/약어사전
