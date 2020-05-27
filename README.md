@@ -168,6 +168,7 @@
 - [Trello](https://trello.com/) : 웹기반의 프로젝트 관리 소프트웨어
 - [Notion](http://notion.so/)
 
+<!--
 # \# Feed & Articles
 ## Essay
 - 2018-03-13 [프로에게 배우는 게 중요한 이유](http://moneyman.kr/archives/5215)
@@ -185,3 +186,4 @@
 
 ## Fun
 - 2019-12-18 ["인터넷, 어디까지 해봤니?" 기내 인터넷은 어떻게 작동할까](https://techit.kr/view/?no=20191218073001)
+-->
