@@ -11,8 +11,6 @@
 - [(비추)잡코리아](https://www.jobkorea.co.kr/)
 - [인크루트](https://www.incruit.com/)
 
----
-
 ## 특정 기업 전용 채용 사이트
 - [카카오 영입](https://careers.kakao.com/)
 - [네이버 채용 페이지](https://recruit.navercorp.com/naver/recruitMain)
