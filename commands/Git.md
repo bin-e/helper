@@ -1,2 +1,0 @@
-# Frequently Used Commands - Git
-
