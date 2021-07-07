@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Hyde
+title:            Helper
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      '✨Helpful 📬(article) or 🗂(document) or 📱(website)'
 url:              https://helper.bin-e.com/
 baseurl:          /
 
 author:
-  name:           'Temp'
-  url:            https://twitter.com/
+  name:           'Bin-e'
+  url:            https://github.com/bin-e
 
 paginate:         5
 
