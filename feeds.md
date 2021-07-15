@@ -6,7 +6,7 @@ title: Feeds
 > helpful blog or community feeds
 
 ## Favorites
-- [어썸 데브블로그](https://awesome-devblog.now.sh/)
+- [어썸 데브블로그](https://awesome-devblog.netlify.app/)
 - [고퀄리티 개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
 - [velog](https://velog.io/)
   
