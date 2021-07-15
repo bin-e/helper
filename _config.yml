@@ -4,11 +4,11 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: false
+# relative_permalinks: false
 
 # Setup
 title:            HELPER
-tagline:          'A Jekyll theme'
+tagline:          ''
 description:      '✨Helpful 📬(article) or 🗂(document) or 📱(website)'
 url:              https://helper.bin-e.com/
 baseurl:          /
