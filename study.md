@@ -12,8 +12,9 @@ title: Learning & Algorithm
 
 ## Algorithm Practice & Competition
 - [Programmers (프로그래머스)](https://programmers.co.kr/learn)
+- [LeetCode (릿코드)](https://leetcode.com/) (ENG only)
 - [Baekjoon Online Judge (백준)](https://www.acmicpc.net/)
-- [HackerRank (해커랭크)](https://www.hackerrank.com/) (ENG)
+- [HackerRank (해커랭크)](https://www.hackerrank.com/) (ENG only)
 - [ALGOSPOT (알고스팟)](https://algospot.com/)
 - [JungOl (정올)](http://www.jungol.co.kr/)
 - [Codility (코딜리티)](https://app.codility.com/programmers/) (ENG)
