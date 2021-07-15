@@ -25,7 +25,6 @@ title: Feeds
 // Google
 - [NAVER D2](https://d2.naver.com/home) 
 // [네이버](https://www.jobplanet.co.kr/companies/42217/info/%EB%84%A4%EC%9D%B4%EB%B2%84)
-// [엔에이치엔](https://www.jobplanet.co.kr/companies/88463/info/%EC%97%94%EC%97%90%EC%9D%B4%EC%B9%98%EC%97%94)
 - [tech.kakao.com](https://tech.kakao.com/) 
 // [카카오](https://www.jobplanet.co.kr/companies/93880/info/%EC%B9%B4%EC%B9%B4%EC%98%A4)
 - [우아한형제들 기술 블로그](http://woowabros.github.io/) 
