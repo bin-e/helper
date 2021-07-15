@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Blog & Community
+title: Feeds
 ---
 
+"helpful blog or community feeds
+  
 ## Personal blog
 - [VELOPERT.LOG](https://velopert.com/about) - [김민준(velopert)][김민준(velopert)] 님 블로그
 - [기억보단 기록을](https://jojoldu.tistory.com/) - [이동욱(jojoldu)][이동욱(jojoldu)] 님 블로그
