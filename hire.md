@@ -23,6 +23,6 @@ title: Hire
 - [잡코리아](https://www.jobkorea.co.kr/)
 - [인크루트](https://www.incruit.com/)
 
-## company information
+## Company information
 - [잡플래닛](https://www.jobplanet.co.kr/)
 - [크레딧잡](https://kreditjob.com/)
