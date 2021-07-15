@@ -3,7 +3,7 @@ layout: page
 title: Feeds
 ---
 
-"helpful blog or community feeds
+> helpful blog or community feeds
   
 ## Personal blog
 - [VELOPERT.LOG](https://velopert.com/about) - [김민준(velopert)][김민준(velopert)] 님 블로그
