@@ -14,7 +14,7 @@ url:              https://helper.jeongph.dev/
 baseurl:          /
 
 author:
-  name:           'Bin-e'
+  name:           'jeongph'
   url:            https://github.com/jeongph
 
 paginate:         5
