@@ -10,12 +10,12 @@ permalink:        pretty
 title:            HELPER
 tagline:          ''
 description:      '✨Helpful 📬(article) or 🗂(document) or 📱(website)'
-url:              https://helper.bin-e.dev/
+url:              https://helper.jeongph.dev/
 baseurl:          /
 
 author:
   name:           'Bin-e'
-  url:            https://github.com/bin-e
+  url:            https://github.com/jeongph
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/bin-e/helper
+  repo:           https://github.com/jeongph/helper
