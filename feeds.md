@@ -24,6 +24,7 @@ title: Feeds
 - [Heee's Development Blog](https://gmlwjd9405.github.io/) - [권희정(gmlwjd9405)][권희정(gmlwjd9405)] 님 블로그
 - [어쩐지 오늘은 · Machine Learning Engineer](https://zzsza.github.io/) - [변성윤(zzsza)][변성윤(zzsza)] 님 블로그
 - [Devhaks 개발 저장소](https://devhaks.github.io/) - [이종학(devhaks)][이종학(devhaks)] 님 블로그
+- [Inpa Dev 👨‍💻](https://inpa.tistory.com/) - 
 
 ## Team blog
 - [Google Developers Blog](https://developers.googleblog.com/) 
